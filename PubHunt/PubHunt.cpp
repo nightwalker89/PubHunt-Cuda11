@@ -26,7 +26,6 @@
 #ifndef WIN64
 #include <pthread.h>
 #endif
-
 using namespace std;
 
 // ----------------------------------------------------------------------------

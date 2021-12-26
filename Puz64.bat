@@ -1,0 +1,1 @@
+PubHunt.exe -gi 0 -gx 8192,1024 hashP64.txt
